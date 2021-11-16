@@ -5,3 +5,5 @@
 /.vs
 /Auth/.vs/Auth/v17
 /Auth/Auth/obj
+/Auth/.vs/Auth/config
+/Auth/Auth/bin/Debug/net6.0
